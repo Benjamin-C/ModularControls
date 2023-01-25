@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "buttons")(type "KiCad")(uri "${KIPRJMOD}/buttons.pretty")(options "")(descr ""))
+  (lib (name "raspi")(type "KiCad")(uri "/home/benjamin/projects/modular-controls/kicad-lib/footprints/raspi.pretty")(options "")(descr ""))
+)
