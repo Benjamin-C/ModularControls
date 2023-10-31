@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "buttons")(type "KiCad")(uri "${KIPRJMOD}/buttons.pretty")(options "")(descr ""))
+  (lib (name "raspi")(type "KiCad")(uri "/home/benjamin/projects/ModularControls/kicad-lib/footprints/raspi.pretty")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "/home/benjamin/projects/ModularControls/kicad-lib/footprints/led.pretty")(options "")(descr ""))
+  (lib (name "adafruit")(type "KiCad")(uri "/home/benjamin/kicad/lib/adafruit.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/benjamin/kicad/lib/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "adafruit")(type "KiCad")(uri "/home/benjamin/kicad/lib/adafruit.kicad_sym")(options "")(descr ""))
+  (lib (name "tvs")(type "KiCad")(uri "/home/benjamin/kicad/lib/tvs.kicad_sym")(options "")(descr ""))
+)

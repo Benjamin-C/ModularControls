@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/home/benjamin/projects/modular-controls/kicad-lib/symbol/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "/home/benjamin/projects/ModularControls/kicad-lib/symbol/led.kicad_sym")(options "")(descr ""))
+)
