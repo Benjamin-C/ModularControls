@@ -9,6 +9,7 @@
     (title "ModularControls Buttons")
     (date "2023-10-30")
     (rev "v0.3.1")
+    (company "Benjamin Crall")
   )
 
   (layers
@@ -5290,6 +5291,9 @@
   )
   (gr_text "GP: 17 16" (at 134.4 106.5) (layer "B.SilkS") (tstamp 9680c8b4-e0a8-47c4-a601-2926d869e019)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify left bottom mirror))
+  )
+  (gr_text "${COMPANY}" (at 150 125) (layer "B.SilkS") (tstamp dad2aad5-a8de-4680-90d8-da4ac74b88b0)
+    (effects (font (size 1 1) (thickness 0.15)) (justify bottom mirror))
   )
   (gr_text "JLCJLCJLCJLC" (at 184.7 73.95 90) (layer "F.SilkS") (tstamp 6214abff-e049-454c-9319-0f01bdb76278)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
