@@ -1121,7 +1121,7 @@
     (property "Reference" "J1" (at 175.26 140.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x04" (at 175.26 143.51 0)
+    (property "Value" "DNP" (at 175.26 143.51 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal" (at 175.26 152.4 0)
