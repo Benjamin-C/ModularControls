@@ -1324,7 +1324,7 @@
     (pin "S1" (uuid 15ef0b82-9a8d-4370-8daa-ff7077ea0d37))
     (pin "S2" (uuid 475720d5-8ac3-4830-bd72-28094d878073))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW3") (unit 1)
         )
@@ -1352,7 +1352,7 @@
     (pin "3" (uuid 99381a98-8928-402c-a395-87053eb8c565))
     (pin "4" (uuid 23d51af8-6b22-4560-85a5-48a996e1fec3))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "J1") (unit 1)
         )
@@ -1381,7 +1381,7 @@
     (pin "S1" (uuid c58b13c2-4d04-468c-93ce-456e99782ecb))
     (pin "S2" (uuid c42dae99-4d1b-4566-b7d6-c18adbc354ea))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW4") (unit 1)
         )
@@ -1406,7 +1406,7 @@
     )
     (pin "1" (uuid f0f83e3d-a10b-45a6-b6c0-070830140242))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0141") (unit 1)
         )
@@ -1430,7 +1430,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "H1") (unit 1)
         )
@@ -1456,7 +1456,7 @@
     (pin "1" (uuid 1d177e2b-5562-4467-9a24-d986cb0fba4c))
     (pin "2" (uuid 1040a80e-5d50-4a11-b429-7d5160bcd69a))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "D17") (unit 1)
         )
@@ -1485,7 +1485,7 @@
     (pin "S1" (uuid 2e86d50e-1802-4ed5-a22b-198b5d294623))
     (pin "S2" (uuid d0f78e98-c9cd-4d35-8935-471ce0440206))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW6") (unit 1)
         )
@@ -1549,7 +1549,7 @@
     (pin "8" (uuid d54b1fb9-bd05-49ee-aee8-446b925896c8))
     (pin "9" (uuid e6a77f45-ea84-432c-8674-530fbeb7c81e))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U1") (unit 1)
         )
@@ -1573,7 +1573,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "H2") (unit 1)
         )
@@ -1602,7 +1602,7 @@
     (pin "S1" (uuid b62f92fa-2d5e-4160-853f-4a08a8ea2848))
     (pin "S2" (uuid 734d79cf-edc7-4aa5-a745-4e5985b5eaab))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW8") (unit 1)
         )
@@ -1627,7 +1627,7 @@
     )
     (pin "1" (uuid 3a1eb19f-e20c-4461-ade5-aa423da94c44))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0133") (unit 1)
         )
@@ -1652,7 +1652,7 @@
     )
     (pin "1" (uuid d81fa5c9-0745-4596-983f-5503776f89d6))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0101") (unit 1)
         )
@@ -1681,7 +1681,7 @@
     (pin "S1" (uuid a83c5b21-cadb-4730-af6f-68b5b15dd36c))
     (pin "S2" (uuid 58955aa9-a88a-42f4-9820-5d4761e98aec))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW1") (unit 1)
         )
@@ -1710,7 +1710,7 @@
     (pin "S1" (uuid 5370703d-ea88-4a50-a49d-4180095ddff0))
     (pin "S2" (uuid 243d7ec8-7519-4970-b4e1-43d34fa42b89))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW5") (unit 1)
         )
@@ -1735,7 +1735,7 @@
     )
     (pin "1" (uuid 8a3121af-f569-497e-afa8-22f69f23c3c3))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0136") (unit 1)
         )
@@ -1764,7 +1764,7 @@
     (pin "S1" (uuid 33ef16e8-ccfc-4902-a680-c48174343670))
     (pin "S2" (uuid 7f026809-ac52-400c-ab97-ae5737d01404))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW7") (unit 1)
         )
@@ -1788,7 +1788,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "H3") (unit 1)
         )
@@ -1813,7 +1813,7 @@
     )
     (pin "1" (uuid fa0cede0-1c50-4d50-8d9c-633be3df0bad))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "#PWR0135") (unit 1)
         )
@@ -1842,7 +1842,7 @@
     (pin "S1" (uuid f55c71e7-44bb-43e6-aac2-e0ab82006492))
     (pin "S2" (uuid 84b11e8f-9ab0-4fd1-8abb-7b06fb8f5d53))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "SW2") (unit 1)
         )
@@ -1866,7 +1866,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "H4") (unit 1)
         )
@@ -1885,7 +1885,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
       )
     )

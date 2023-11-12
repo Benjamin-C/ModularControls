@@ -2236,7 +2236,7 @@
     )
     (pin "1" (uuid 7a7c1a95-008d-4adf-ab8e-f970ed86d811))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR01") (unit 1)
         )
@@ -2283,7 +2283,7 @@
     (pin "B9" (uuid dec4488a-31b4-4a88-9798-b60b2506ce45))
     (pin "S1" (uuid 4e750000-ec2b-40bb-a26f-fdd2e39ccee7))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "J2") (unit 1)
         )
@@ -2315,7 +2315,7 @@
     (pin "1" (uuid a8310cec-293f-4013-84fd-dab3dbfcf3dd))
     (pin "2" (uuid f5eb0042-e31e-4ab9-911a-1c2e3eea79fc))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "SW18") (unit 1)
         )
@@ -2349,7 +2349,7 @@
     (pin "3" (uuid b23d90e8-9159-4fdf-8a17-fe62ba2643a8))
     (pin "4" (uuid d270449c-2a30-424d-9ea2-119187118713))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "Y1") (unit 1)
         )
@@ -2381,7 +2381,7 @@
     (pin "1" (uuid 1654fb97-ebf8-412a-9f6a-a119aa1a6270))
     (pin "2" (uuid ab591ed5-0093-46a4-ac83-8d52fd2d5c99))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C29") (unit 1)
         )
@@ -2406,7 +2406,7 @@
     )
     (pin "1" (uuid 41d6fc93-8941-4129-9b0a-227c876baf15))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR04") (unit 1)
         )
@@ -2438,7 +2438,7 @@
     (pin "1" (uuid bd08e6ab-ed07-42e9-9cf9-b01e411596e3))
     (pin "2" (uuid dfc52b88-85b1-43ac-894a-f8f67e383762))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C20") (unit 1)
         )
@@ -2525,7 +2525,7 @@
     (pin "8" (uuid 71ad44a1-4583-49ad-957e-df6896ef8155))
     (pin "9" (uuid 974b80ed-c42f-4260-9e49-7aaeec71571a))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
           (reference "U2") (unit 1)
         )
@@ -2555,7 +2555,7 @@
     (pin "2" (uuid 88bc04f8-4783-4e0c-a340-631e60025b6b))
     (pin "3" (uuid f3719884-5ef9-499c-ab15-62f4904bd41b))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "J3") (unit 1)
         )
@@ -2587,7 +2587,7 @@
     (pin "1" (uuid c58f667f-9c7c-4635-8041-ac2207c80d45))
     (pin "2" (uuid 6ec9a7b6-3f0d-40ff-8a81-9f84e3978967))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R5") (unit 1)
         )
@@ -2619,7 +2619,7 @@
     (pin "1" (uuid e9b08dc3-3487-449d-a6a2-0c36af60f316))
     (pin "2" (uuid 74010df8-e221-4a25-b6eb-5870d98613aa))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C23") (unit 1)
         )
@@ -2644,7 +2644,7 @@
     )
     (pin "1" (uuid 8e910839-3978-4927-b223-6440d20bbc99))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR010") (unit 1)
         )
@@ -2669,7 +2669,7 @@
     )
     (pin "1" (uuid d806804e-c367-40e9-a47f-f6114719591d))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR06") (unit 1)
         )
@@ -2701,7 +2701,7 @@
     (pin "1" (uuid e2fafe0a-00ce-46de-992d-3bb6733aa89a))
     (pin "2" (uuid 53c65660-83c4-4a41-9494-4ec1669c415f))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R4") (unit 1)
         )
@@ -2726,7 +2726,7 @@
     )
     (pin "1" (uuid 6259257f-967f-45c7-a93c-b3e87eefd9bf))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR011") (unit 1)
         )
@@ -2751,7 +2751,7 @@
     )
     (pin "1" (uuid 60c610e0-ce91-4631-99d5-815dee1e5dbf))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR016") (unit 1)
         )
@@ -2783,7 +2783,7 @@
     (pin "1" (uuid 50d31943-ef1b-4f1c-ba8c-3ac47d1668a3))
     (pin "2" (uuid 8ef10339-581a-4fbe-9c1d-1a521975b903))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C21") (unit 1)
         )
@@ -2808,7 +2808,7 @@
     )
     (pin "1" (uuid 2a2621f5-c951-4723-acdf-5886e563dc04))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR05") (unit 1)
         )
@@ -2840,7 +2840,7 @@
     (pin "1" (uuid f160c747-273d-4ed1-a43e-f05d384734b5))
     (pin "2" (uuid 563861e0-56ca-4655-aeb8-449b727e5b93))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "D18") (unit 1)
         )
@@ -2872,7 +2872,7 @@
     (pin "1" (uuid 3fce6325-81a3-4a32-b28d-eef0639106c2))
     (pin "2" (uuid d76c4054-2c4e-4b5a-b23f-c81de1eeb15f))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C25") (unit 1)
         )
@@ -2904,7 +2904,7 @@
     (pin "1" (uuid e4466ae3-52ee-4862-923d-be8375b0633c))
     (pin "2" (uuid f12ab8cf-b15d-48b9-ae2d-b1dcbcca4cae))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R1") (unit 1)
         )
@@ -2929,7 +2929,7 @@
     )
     (pin "1" (uuid 442122d5-2487-4e1b-bfbb-f81eb42ddc6a))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR07") (unit 1)
         )
@@ -2954,7 +2954,7 @@
     )
     (pin "1" (uuid fbc2d5cf-1335-4249-970a-8175a51a0a82))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR02") (unit 1)
         )
@@ -2979,7 +2979,7 @@
     )
     (pin "1" (uuid 3cd6310e-e296-4869-93e3-d7ad846501a0))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR018") (unit 1)
         )
@@ -3011,7 +3011,7 @@
     (pin "1" (uuid a13c418f-09f9-47eb-b463-bb452c066990))
     (pin "2" (uuid c62ac88a-124d-4b1a-b9db-1e1eb5e9a864))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C22") (unit 1)
         )
@@ -3043,7 +3043,7 @@
     (pin "1" (uuid 5e46b31f-7b3d-4e60-b32f-47a3ddcb6860))
     (pin "2" (uuid e48d1c7b-9570-4044-bfd0-c104dc216f0b))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R6") (unit 1)
         )
@@ -3068,7 +3068,7 @@
     )
     (pin "1" (uuid c49abef9-404e-4411-a5ef-df83f318cd70))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR09") (unit 1)
         )
@@ -3104,7 +3104,7 @@
     (pin "5" (uuid bd19c370-007a-4282-a139-b001a7189b21))
     (pin "6" (uuid 1f9eb5a1-95da-4f62-aaf1-00d190130af5))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "U3") (unit 1)
         )
@@ -3129,7 +3129,7 @@
     )
     (pin "1" (uuid ee1d6429-faec-4123-8107-e45f5213437d))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR014") (unit 1)
         )
@@ -3154,7 +3154,7 @@
     )
     (pin "1" (uuid a5ae1f2a-7c58-40bf-8ae5-c21b44b95242))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR03") (unit 1)
         )
@@ -3186,7 +3186,7 @@
     (pin "1" (uuid a5cb9ca7-91ea-4fc8-8006-9a37c3344184))
     (pin "2" (uuid 38c5ab10-1e80-47f9-a21e-845ae1ef0a0f))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "SW17") (unit 1)
         )
@@ -3219,7 +3219,7 @@
     (pin "2" (uuid 9575a88f-8f2f-4f8d-ac4a-fdc30d5117eb))
     (pin "3" (uuid 2d4e0d2e-90aa-4f3e-bc6b-beaf942a9af0))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "U4") (unit 1)
         )
@@ -3251,7 +3251,7 @@
     (pin "1" (uuid f4b2e8ec-76df-4b7d-80d1-0d2f5862ca4f))
     (pin "2" (uuid ab73baf0-ad4d-4d8b-8fb1-500fd9024d1e))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C28") (unit 1)
         )
@@ -3276,7 +3276,7 @@
     )
     (pin "1" (uuid 451be16f-b871-43ad-addc-6ffa996e2793))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR019") (unit 1)
         )
@@ -3308,7 +3308,7 @@
     (pin "1" (uuid ba493048-6300-4ed5-8e2f-dee340e254d3))
     (pin "2" (uuid f51a1718-fc30-439c-9697-7aae739b1fb5))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C30") (unit 1)
         )
@@ -3340,7 +3340,7 @@
     (pin "1" (uuid 4ccc9c82-a041-4165-85f4-80cdae6d4287))
     (pin "2" (uuid 7e56e634-21d7-4f9f-be3b-82bddfe686cc))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R8") (unit 1)
         )
@@ -3372,7 +3372,7 @@
     (pin "1" (uuid 3bfd36ab-e6f2-4de5-ab62-26603abde203))
     (pin "2" (uuid 206cb90e-e9dc-4f79-b603-4143377942d9))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R2") (unit 1)
         )
@@ -3404,7 +3404,7 @@
     (pin "1" (uuid fba66cb2-84a3-4d60-9842-afc45ce04c55))
     (pin "2" (uuid 374362ff-2e2f-44f7-9922-75cb35de42bf))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C19") (unit 1)
         )
@@ -3442,7 +3442,7 @@
     (pin "7" (uuid 46b921ff-1da8-4e6e-be1d-392f551b6f1d))
     (pin "8" (uuid 490356f4-af74-485b-bbbd-79dbf5984071))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "U2") (unit 1)
         )
@@ -3467,7 +3467,7 @@
     )
     (pin "1" (uuid 3b6f042e-24db-42aa-a1b3-cbc80f09ac81))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR08") (unit 1)
         )
@@ -3499,7 +3499,7 @@
     (pin "1" (uuid 31bd922e-b6a5-4aa9-8007-8a8e5f1c063b))
     (pin "2" (uuid fab1b398-d3fc-4f5b-b7a9-94e38a9c5ee7))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C18") (unit 1)
         )
@@ -3524,7 +3524,7 @@
     )
     (pin "1" (uuid 5f08c21c-78e4-4764-baa8-03b377be1159))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR017") (unit 1)
         )
@@ -3556,7 +3556,7 @@
     (pin "1" (uuid b3f6eef2-a584-42d0-9594-74e3a5725a9a))
     (pin "2" (uuid 1b76499c-7511-4185-a774-4838dae60c20))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C27") (unit 1)
         )
@@ -3588,7 +3588,7 @@
     (pin "1" (uuid bf00d1af-09df-4153-a20a-7b54be00ad03))
     (pin "2" (uuid 3ec59333-d1a4-433a-8b76-ff6436225803))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R7") (unit 1)
         )
@@ -3620,7 +3620,7 @@
     (pin "1" (uuid 434ecb50-241f-40ba-a84b-a6bd4f8d6af0))
     (pin "2" (uuid 21c58ca6-344a-4b0e-8550-fd8e2521e549))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C24") (unit 1)
         )
@@ -3652,7 +3652,7 @@
     (pin "1" (uuid f53ab1d5-b704-4e12-9330-33994927e389))
     (pin "2" (uuid b4f159d1-4823-4746-890b-69910885c3ad))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "D17") (unit 1)
         )
@@ -3677,7 +3677,7 @@
     )
     (pin "1" (uuid d72104e9-caf5-4a9c-9c1f-56ca4e7c3606))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR022") (unit 1)
         )
@@ -3702,7 +3702,7 @@
     )
     (pin "1" (uuid 895f5caf-a7a7-4243-9da8-d8c907aeda89))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR012") (unit 1)
         )
@@ -3727,7 +3727,7 @@
     )
     (pin "1" (uuid 26e7ca42-8bd2-4174-87eb-cce50400efeb))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR021") (unit 1)
         )
@@ -3752,7 +3752,7 @@
     )
     (pin "1" (uuid 7ef24833-f852-45e9-bbac-43af99cf62a1))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR020") (unit 1)
         )
@@ -3777,7 +3777,7 @@
     )
     (pin "1" (uuid f4054a65-48f5-4d1e-a7c0-d608112dd6fa))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR013") (unit 1)
         )
@@ -3809,7 +3809,7 @@
     (pin "1" (uuid 9f1d6cd5-db43-4147-9b53-68d54729ef3c))
     (pin "2" (uuid 58747a5d-30e4-4215-bff6-1025277e59b9))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C17") (unit 1)
         )
@@ -3841,7 +3841,7 @@
     (pin "1" (uuid 3a1df554-eeba-4f1b-b48b-0ec1429d765e))
     (pin "2" (uuid ee1e156e-3cbb-4d8f-bc9f-70dec642840b))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C26") (unit 1)
         )
@@ -3866,7 +3866,7 @@
     )
     (pin "1" (uuid a93bb10b-ef8d-4f0e-8048-6e488f5a308b))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "#PWR015") (unit 1)
         )
@@ -3898,7 +3898,7 @@
     (pin "1" (uuid 65fad9b7-2d10-4772-92d7-3601c4b48922))
     (pin "2" (uuid 70d43e88-b917-496e-a31e-0606a112cc19))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "C31") (unit 1)
         )
@@ -3930,7 +3930,7 @@
     (pin "1" (uuid 5b4e714d-0791-4b03-bfa9-c113a019848f))
     (pin "2" (uuid bbd6eb25-cfa3-45ce-9cff-29c58110bbf3))
     (instances
-      (project "knobs"
+      (project "knobs-mini"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/b6f055bf-2d2e-431d-8ec7-bfb27511f024"
           (reference "R3") (unit 1)
         )
