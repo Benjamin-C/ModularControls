@@ -1,0 +1,3 @@
+[submodule "adafruit-kicad"]
+	path = adafruit-kicad
+	url = https://github.com/Benjamin-C/adafruit-kicad
